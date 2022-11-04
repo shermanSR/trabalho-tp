@@ -1,0 +1,34 @@
+[
+    {
+        "Placa": 491,
+        "Marca": "honda",
+        "Modelo": "city",
+        "Ano": 2022,
+        "Cor": "preto abrancado",
+        "Cambio": "autoglass e o certo"
+    },
+    {
+        "Placa": 529,
+        "Marca": "ford",
+        "Modelo": "ranger",
+        "Ano": 2015,
+        "Cor": "vermelho",
+        "Cambio": "automatico"
+    },
+    {
+        "Placa": 649,
+        "Marca": "SS",
+        "Modelo": "Puma",
+        "Ano": 1944,
+        "Cor": "camuflado",
+        "Cambio": "automatico"
+    },
+    {
+        "Placa": 391,
+        "Marca": "obercomandder",
+        "Modelo": "tiger",
+        "Ano": 1943,
+        "Cor": "verde",
+        "Cambio": "manual"
+    }
+]
